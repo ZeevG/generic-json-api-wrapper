@@ -1,4 +1,6 @@
-generic-json-api-wrapper
+Generic-json-api-wrapper
 ========================
 
-A generic JSON API wrapper, takes a response schema and provides an easy interface to access a simple API which return JSON data.
+A generic JSON API wrapper.
+
+Just provide a response schema and url. This wrapper can be a simple interface to most JSON APIs.
